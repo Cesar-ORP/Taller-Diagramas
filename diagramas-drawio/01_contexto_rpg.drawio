@@ -1,0 +1,100 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="-yLHbKpNxs9CoTTf1lWt">
+    <mxGraphModel dx="833" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8XAOLEk0YiTeFtzoxpoW-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#cce5ff;strokeColor=#36393d;" value="RPG - Manager" vertex="1">
+          <mxGeometry height="100" width="100" x="364" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="8XAOLEk0YiTeFtzoxpoW-2" parent="1" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;fillColor=#cdeb8b;strokeColor=#36393d;" value="Jugador" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="8XAOLEk0YiTeFtzoxpoW-3" parent="1" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;fillColor=#cdeb8b;strokeColor=#36393d;" value="Servicio de respaldo en la nube" vertex="1">
+          <mxGeometry height="60" width="176" x="326" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="8XAOLEk0YiTeFtzoxpoW-4" parent="1" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;fillColor=#cdeb8b;strokeColor=#36393d;" value="Game Master" vertex="1">
+          <mxGeometry height="60" width="147" x="580" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="8XAOLEk0YiTeFtzoxpoW-5" parent="1" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;fillColor=#cdeb8b;strokeColor=#36393d;" value="Game Master" vertex="1">
+          <mxGeometry height="60" width="147" x="340.5" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="8XAOLEk0YiTeFtzoxpoW-6" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="364" y="370" as="sourcePoint" />
+            <mxPoint x="250" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8XAOLEk0YiTeFtzoxpoW-7" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="250" y="400" as="sourcePoint" />
+            <mxPoint x="364" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8XAOLEk0YiTeFtzoxpoW-8" edge="1" parent="1" source="8XAOLEk0YiTeFtzoxpoW-1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.27;exitY=0.06;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="330" as="sourcePoint" />
+            <mxPoint x="390" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8XAOLEk0YiTeFtzoxpoW-9" edge="1" parent="1" source="8XAOLEk0YiTeFtzoxpoW-1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" target="8XAOLEk0YiTeFtzoxpoW-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="260" y="410" as="sourcePoint" />
+            <mxPoint x="374" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8XAOLEk0YiTeFtzoxpoW-10" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="525.5" as="sourcePoint" />
+            <mxPoint x="400" y="430.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8XAOLEk0YiTeFtzoxpoW-11" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="464" y="370" as="sourcePoint" />
+            <mxPoint x="580" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8XAOLEk0YiTeFtzoxpoW-12" edge="1" parent="1" source="8XAOLEk0YiTeFtzoxpoW-4" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0.99;entryY=0.69;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.02;exitY=0.817;exitDx=0;exitDy=0;exitPerimeter=0;" target="8XAOLEk0YiTeFtzoxpoW-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="580" y="390" as="sourcePoint" />
+            <mxPoint x="464" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8XAOLEk0YiTeFtzoxpoW-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="F1 Registro de datos" vertex="1">
+          <mxGeometry height="30" width="137" x="240" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="8XAOLEk0YiTeFtzoxpoW-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="F6 datos de la mision" vertex="1">
+          <mxGeometry height="30" width="137" x="450" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="8XAOLEk0YiTeFtzoxpoW-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="F9 Confirmación de correo" vertex="1">
+          <mxGeometry height="30" width="137" x="397" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="8XAOLEk0YiTeFtzoxpoW-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="F7 Reporte de la actividad de jugadores" vertex="1">
+          <mxGeometry height="30" width="137" x="450" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="8XAOLEk0YiTeFtzoxpoW-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="F2 Datos del personaje" vertex="1">
+          <mxGeometry height="30" width="137" x="240" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="8XAOLEk0YiTeFtzoxpoW-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="F3 Accion de combate" vertex="1">
+          <mxGeometry height="30" width="137" x="240" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="8XAOLEk0YiTeFtzoxpoW-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="F10 Datos inicio sesion" vertex="1">
+          <mxGeometry height="30" width="137" x="240" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="8XAOLEk0YiTeFtzoxpoW-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="F5 ranking de arena" vertex="1">
+          <mxGeometry height="30" width="147" x="235" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="8XAOLEk0YiTeFtzoxpoW-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="F6 Copia de seguridad de partidas" vertex="1">
+          <mxGeometry height="30" width="120" x="414" y="463" as="geometry" />
+        </mxCell>
+        <mxCell id="8XAOLEk0YiTeFtzoxpoW-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="F11 Partida guardada" vertex="1">
+          <mxGeometry height="30" width="120" x="280" y="463" as="geometry" />
+        </mxCell>
+        <mxCell id="8XAOLEk0YiTeFtzoxpoW-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="F4 Resultado del combate" vertex="1">
+          <mxGeometry height="30" width="147" x="240" y="410" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
